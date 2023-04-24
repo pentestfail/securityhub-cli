@@ -1,0 +1,9 @@
+.git
+.gitignore
+**/__pycache__
+*.pyc
+images/
+*.json
+*.jsonl
+*.csv
+*.html
